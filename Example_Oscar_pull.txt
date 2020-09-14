@@ -1,0 +1,1 @@
+This file is an example of a shared file from another account.
